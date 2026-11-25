@@ -1,0 +1,9 @@
+/node_modules/
+/.next/
+/data/*.json
+/data/*.log
+/data/*.lock
+!/data/.gitkeep
+.idea/
+.vscode/
+*.tmp

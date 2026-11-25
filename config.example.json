@@ -1,0 +1,11 @@
+{
+  "source_url": "http://opendata.trudvsem.ru/api/v1/vacancies/region/39",
+  "max_vacancies": 20,
+  "page_size": 10,
+  "schedule_enabled": false,
+  "interval_minutes": 360,
+  "llm_base_url": "https://api.giga.chat/v1",
+  "llm_model": "GigaChat-2",
+  "llm_api_key": "",
+  "llm_timeout_sec": 90
+}

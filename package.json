@@ -1,0 +1,24 @@
+{
+  "name": "paradon",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "node server.js",
+    "test": "node --import tsx tests/run-tests.ts",
+    "report": "node --import tsx scripts/run.ts",
+    "schedule": "node --import tsx scripts/scheduler.ts"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
