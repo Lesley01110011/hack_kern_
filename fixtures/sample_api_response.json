@@ -1,0 +1,92 @@
+{
+  "status": "200",
+  "meta": {
+    "total": 3,
+    "limit": 3
+  },
+  "results": {
+    "vacancies": [
+      {
+        "vacancy": {
+          "id": "clear-metro",
+          "job-name": "Инженер по метрологии",
+          "vac_url": "https://trudvsem.ru/vacancy/card/demo/clear-metro",
+          "company": { "name": "МБУ «Городская метрологическая лаборатория»" },
+          "salary": "от 45000 до 66000",
+          "salary_min": 45000,
+          "salary_max": 66000,
+          "currency": "руб.",
+          "employment": "Полная занятость",
+          "schedule": "Полный рабочий день",
+          "shift": [],
+          "duty": "Поверка и калибровка средств измерений давления и температуры, оформление протоколов поверки, ведение журналов учета в базе данных.",
+          "requirements": "Высшее образование по направлению метрология, опыт поверки средств измерений от 1 года, уверенный пользователь Excel.",
+          "requirement": {
+            "education": "Высшее образование",
+            "qualification": "Метрология",
+            "experience": 1
+          },
+          "addresses": {
+            "address": [
+              { "location": "Калининградская область, г. Калининград, ул. Больничная, д. 4" }
+            ]
+          }
+        }
+      },
+      {
+        "vacancy": {
+          "id": "bad-assistant",
+          "job-name": "Помощник воспитателя",
+          "typicalPosition": "Воспитатель",
+          "vac_url": "https://trudvsem.ru/vacancy/card/demo/bad-assistant",
+          "company": { "name": "МБДОУ «Детский сад № 1»" },
+          "salary": "от 80000",
+          "salary_min": 40000,
+          "salary_max": 30000,
+          "employment": "Полная занятость",
+          "schedule": "Гибкий график",
+          "shift": [],
+          "duty": "",
+          "requirements": "Высшее образование, опыт от 5 лет, частичная занятость",
+          "requirement": {
+            "education": "Среднее общее образование",
+            "qualification": "",
+            "experience": 0
+          },
+          "addresses": {
+            "address": [
+              { "location": "Калининградская область" }
+            ]
+          }
+        }
+      },
+      {
+        "vacancy": {
+          "id": "clear-guard",
+          "job-name": "Сторож",
+          "vac_url": "https://trudvsem.ru/vacancy/card/demo/clear-guard",
+          "company": { "name": "МКУ «Городское хозяйство»" },
+          "salary": "от 35000",
+          "salary_min": 35000,
+          "salary_max": 42000,
+          "currency": "руб.",
+          "employment": "Полная занятость",
+          "schedule": "Сменный график",
+          "shift": [],
+          "duty": "Охрана здания администрации, смена 2/2 с 08:00 до 20:00, обход территории и записи в журнале.",
+          "requirements": "Среднее общее образование, без опыта, ответственность и аккуратность.",
+          "requirement": {
+            "education": "Среднее общее образование",
+            "qualification": "не требуется",
+            "experience": 0
+          },
+          "addresses": {
+            "address": [
+              { "location": "Калининградская область, г. Калининград, пл. Победы, д. 1" }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
